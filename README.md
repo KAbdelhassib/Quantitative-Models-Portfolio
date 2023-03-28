@@ -1,2 +1,2 @@
 # Quantitative-Models-Portfolio
-A portfolio Of my models
+A portfolio Of models I've develeoped during different roles
